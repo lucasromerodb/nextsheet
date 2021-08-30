@@ -18,7 +18,8 @@ export default function Home({ data }) {
 
       <main>
         <h1>Welcome to Nextsheet 💩</h1>
-        <p>Fetched from Google Spreadsheet:</p>
+        <p>Connecting NextJS with Google Spreadsheets as Database</p>
+        <p>Example fetched from Google Spreadsheet:</p>
         <ul>
           {data && data.length ? (
             data.map((item) => (
