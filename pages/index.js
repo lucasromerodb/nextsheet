@@ -40,9 +40,8 @@ export default function Home({ data }) {
         <br />
         <code>SPREADSHEET_NAME=[SHEET NAME]</code>
         <p>
-          <a href="https://dev.to/frasnym/connecting-your-nextjs-mini-project-with-google-spreadsheets-as-database-1o2d?signin=true">
-            Get more info here »
-          </a>
+          <a href="https://github.com/lucasromerodb/nextsheet">GitHub repo »</a>
+          <br />
         </p>
       </main>
     </div>
