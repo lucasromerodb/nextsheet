@@ -18,7 +18,7 @@ export default function Home({ data }) {
 
       <main>
         <h1>Welcome to Nextsheet 💩</h1>
-        <p>Example here:</p>
+        <p>Fetched from Google Spreadsheet:</p>
         <ul>
           {data && data.length ? (
             data.map((item) => (
