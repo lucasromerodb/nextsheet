@@ -27,7 +27,7 @@ export default function Home({ data }) {
               </li>
             ))
           ) : (
-            <li>Error: don't forget to setup your env variables 👇</li>
+            <li>Error: do not forget to setup your env variables 👇</li>
           )}
         </ul>
         <h2>Setting up environment variables</h2>
