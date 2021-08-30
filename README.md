@@ -1,4 +1,6 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Nextsheet 💩
+
+Connecting NextJS with Google Spreadsheets as Database
 
 ## Environment variables
 
@@ -9,7 +11,11 @@ SPREADSHEET_ID=[YOU CAN GET THIS ON URL OF YOUR SHEETS]
 SPREADSHEET_NAME=[SHEET NAME]
 ```
 
+> [Get more info here](https://dev.to/frasnym/connecting-your-nextjs-mini-project-with-google-spreadsheets-as-database-1o2d?signin=true)
+
 ## Getting Started
+
+This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 First, run the development server:
 
@@ -18,5 +24,3 @@ npm run dev
 # or
 yarn dev
 ```
-
-> [Get more info here](https://dev.to/frasnym/connecting-your-nextjs-mini-project-with-google-spreadsheets-as-database-1o2d?signin=true)
